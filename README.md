@@ -59,3 +59,6 @@ npm run dev
 
 - Built-in OAuth App is shared by plugin users and may hit GitHub rate limits.
 - If built-in OAuth login is unavailable, set your own OAuth Client ID in plugin settings.
+
+<img width="767" height="879" alt="image" src="https://github.com/user-attachments/assets/1a7a2bf2-833c-43da-ad07-2f91514c037e" />
+
